@@ -1,3 +1,0 @@
-max_samples: 30
-n_estimators: 10
-name: RandomForrest

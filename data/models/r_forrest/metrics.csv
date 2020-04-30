@@ -1,5 +1,0 @@
-Name,Value,Timestamp,Step
-"accuracy",0.8666666666666667,1588223848050,1
-"confusion_matrics","[[10  0  0]
- [ 0  9  1]
- [ 0  3  7]]",1588223848050,1
